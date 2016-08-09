@@ -37,7 +37,7 @@ We need to take a lot of factors for this class. We have 2 special events on thi
 
 ### Evaluation
 
-|         Concept         | Value |
+| Concept                 | Value |
 |:-----------------------:|-------|
 | Homework and Challenges | 35%   |
 | Final project           | 65%   |
@@ -49,8 +49,8 @@ Starting Week 2, you will have homework and challenges for each one of the week 
 
 #### Final project
 
-| Concept                               | Value |
-| --                                    | -- |
+| Concept                 | Value |
+|:-----------------------:|-------|
 | First deliverable (Primer parcial)    | 5% |
 | Second deliverable (Segundo parcial)  | 10% |
 | Third deliverable (Tercer parcial)    | 15% |
