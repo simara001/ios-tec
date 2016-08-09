@@ -15,9 +15,7 @@ You will need a lot of help, no questions about it. At the beginning is harder b
 
 I have created a course on [Slack](https://slack.com/), this is a **hard requirement** and it is not optional, that's the way in which we will communicate. For those of you how are not familiar with **Slack**, it is a chat application that supports *code snippets*, *images*, *groups*, *private messages*, it's free and it has support for Android/iOS devices and web. Create your account and add your email on the first discussion. That is actually your first Homework.
 
-Don't under estimate the power of crowd knowledge. In case you have a question about a homework, challenge or a video, you can find discussions on this page.
-
-![Discussions section](Discussions.png)
+Don't under estimate the power of crowd knowledge. In case you have a question about a homework, challenge or a video, you can always contact me on the slack channel.
 
 ## My professor is not here, how do I deal with it?
 
@@ -31,15 +29,7 @@ Yes, I am not there, and yes if this is the first time you are trying something 
 
 #### When will I be there?
 
-Put it on your calendar now! Yes, attendance is not optional, and yes, it counts as several classes. 
-
-| Fecha                    | Horario |
-| --                       | -- |
-| Enero 22                 | 18-21 horas |
-| Enero 23                 | 10-13 horas |
-| Febrero 26               | 18-21 horas |
-| Febrero 27               | 10-13 horas |
-
+Professor is currently unavailable to travel outside US, as soon as this restriction changes he will confirm the dates in which he will be available.
 
 ## How am I going to be graded? 
 
