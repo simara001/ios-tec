@@ -56,10 +56,4 @@ Starting Week 2, you will have homework and challenges for each one of the week 
 | Third deliverable (Tercer parcial)    | 15% |
 | Final deliverable                     | 35% |
 
-####Taller Vertical
 
-**5%** of the final grade
-
-#### Expo ingenierías
-
-You can have up to **7** final points if you decide and fulfill the requirements for Expo Ingenierías. Team members should be 30 minutes before the event, have a presentation ready for the judges and general public. Finally, you SHOULD NOT work on your project during the fair.
