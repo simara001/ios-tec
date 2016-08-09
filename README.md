@@ -37,12 +37,10 @@ We need to take a lot of factors for this class. We have 2 special events on thi
 
 ### Evaluation
 
-| Concept                       | Value |
-| --                            | -- |
-| Homework and challenges       | 30% |
-| Final project                 | 65% |
-| Taller Vertical               | 5% |
-| Expo Ingenierías              | 7% |
+|         Concept         | Value |
+|:-----------------------:|-------|
+| Homework and Challenges | 35%   |
+| Final project           | 65%   |
 
 
 #### Homework and challenges
